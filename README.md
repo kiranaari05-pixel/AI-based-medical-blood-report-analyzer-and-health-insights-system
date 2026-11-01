@@ -1,0 +1,2 @@
+# AI-based-medical-blood-report-analyzer-and-health-insights-system
+The AI-Based Medical Blood Report Analyzer uses OCR to extract blood test values, compares them with laboratory reference ranges, and identifies low, normal, or high results. It uses statistical methods like mean and standard deviation to analyze data and displays results, charts, and simple health insights through a user-friendly dashboard.
